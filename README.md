@@ -1,3 +1,3 @@
 # pekka-repo
-Assignment
-W.A.K.S.Upekka - CT_2019_039
+Name: W.A.K.S.UPEKKA
+Student No: CT/2019/035
